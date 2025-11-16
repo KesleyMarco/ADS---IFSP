@@ -34,3 +34,7 @@ int main(){
 	
 	return 0;
 }
+
+/*Crie um vetor com N números reais (pergunte o valor de N ao usuário). 
+Crie uma função que calcula e retorna a média aritmética entre os números do vetor. 
+Exiba o vetor e a média.*/

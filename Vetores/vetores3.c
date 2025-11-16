@@ -33,3 +33,8 @@ int main(){
 	 
 	return 0;
 }
+
+/*Ler um vetor de 10 elementos inteiros e positivos. Criar um segundo vetor da seguinte forma: 
+os elementos de índice par receberão os respectivos elementos divididos por 2; 
+os elementos de índice ímpar receberão os respectivos elementos multiplicados por 3. 
+Imprima os dois vetores (usando o procedimento implementado no exercício anterior).*/

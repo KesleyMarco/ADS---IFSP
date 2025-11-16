@@ -27,3 +27,6 @@ int main(){
 	
 	return 0;
 }
+
+/* Leia um vetor de 8 números inteiros e determine e exiba qual é o maior e o menor valor 
+bem como os índices onde eles se encontram .*/

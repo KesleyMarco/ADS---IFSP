@@ -27,3 +27,13 @@ int main(){
 	
 	return 0;
 }
+
+/* Ler um vetor de 10 elementos. Crie um segundo vetor, com todos os elementos na ordem inversa, 
+ou seja, o último elemento passará a ser o primeiro, o penúltimo será o segundo e assim por diante. 
+Crie um procedimento que recebe os 2 vetores por parâmetro e os exibe na tela da seguinte forma:
+Considere o vetor 1 com os valores 2,4,6,8,10 e o vetor 2 com os valores 10,8,6,4,2 a saída deve ser:
+2 10
+4 8
+6 6
+8 4
+10 2*/

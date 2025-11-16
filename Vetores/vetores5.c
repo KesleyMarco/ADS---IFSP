@@ -37,3 +37,6 @@ int main(){
 		
 	return 0;
 }
+
+/* Dados dois vetores de tamanho N, faça uma função booleana que retorna "true" 
+se os mesmos possuam conteúdo igual e "false" caso contrário, teste a função.*/

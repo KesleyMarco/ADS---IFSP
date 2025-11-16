@@ -30,3 +30,6 @@ int main(){
 	
 	return 0;
 }
+
+/* Leia 12 números e armazene-os em um vetor. 
+Crie um procedimento que mostre quantos são pares e quantos são ímpares.*/
